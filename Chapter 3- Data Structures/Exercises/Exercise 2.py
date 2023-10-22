@@ -1,5 +1,5 @@
 names = ["Maki", "Gab", "Khudaks", "Memen", "Wami"] 
-message = " is one of my childhood friends."
+message = ", it's been a while. Are you free to hang out with the homies tonight?."
 
 print (names [0] + message)
 print (names [1] + message)
