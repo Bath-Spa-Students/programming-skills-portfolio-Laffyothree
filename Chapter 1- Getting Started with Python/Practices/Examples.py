@@ -1,0 +1,26 @@
+print ("Name", ": Angelica Corpin Mones")
+print ("Birthday", ": July 21,", 2003)
+print ("University", ": Bathspa University RAK")
+print()
+
+print (21/4)
+print (21//4)
+print()
+
+name = input ("Enter name:")
+print (name) 
+uni = input ("Enter University:")
+print (uni)
+yrcrs = input ("Enter Course/Year:")
+print (yrcrs)
+print()
+
+print ((21*3/2+(8+7))) 
+print ( int (21*3/2+(8+7))) 
+print() 
+
+ans = (55*10/5+(8+7))
+print (ans) 
+ans = (55*10/5+(8+7))
+print ( int (ans))
+print()

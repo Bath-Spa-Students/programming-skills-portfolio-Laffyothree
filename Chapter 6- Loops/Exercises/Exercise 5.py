@@ -1,10 +1,10 @@
-sandwich_orders = ['Grilled Cheese', 'Pastarami', 'Egg Sandwich', 'Pastarami', 
-                   'Avocado Toast', 'Pastarami', 'Tuna Sandwich']
+sandwich_orders = ['Grilled Cheese', 'Pastrami', 'Egg Sandwich', 'Pastrami', 
+                   'Avocado Toast', 'Pastrami', 'Tuna Sandwich']
 finished_sandwiches = []
 
-print ('I am sorry, but the Deli has run out of Pastarami.')
-while 'Pastarami' in sandwich_orders:
-    sandwich_orders.remove('Pastarami')
+print ('I am sorry, but the Deli has run out of Pastrami.')
+while 'Pastrami' in sandwich_orders:
+    sandwich_orders.remove('Pastrami')
 print()
 
 while sandwich_orders:
